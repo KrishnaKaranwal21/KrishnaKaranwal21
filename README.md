@@ -49,7 +49,7 @@ I am an aspiring **Backend Developer** passionate about building **scalable**, *
 Here's a snapshot of my GitHub activity and contributions over time.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KrishnaKaranwal21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KrishnaKaranwal21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="210" />
 </p>
 
 <p align="center">
