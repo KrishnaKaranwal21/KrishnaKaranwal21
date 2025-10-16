@@ -18,7 +18,8 @@
 
 ## About Me
 
-I am an aspiring **Backend Developer** passionate about building **scalable**, **efficient**, and **user-focused** applications. I enjoy working on **full-stack development**, **AI-driven projects**, and **cloud deployments**, and I am currently exploring **FastAPI**, **PostgreSQL**, and **system design** to strengthen my backend expertise.
+I am an aspiring **Backend Developer** with a strong passion for designing and developing **scalable**, **efficient**, and **user-centric software systems**. I enjoy solving complex engineering challenges and transforming innovative ideas into real-world solutions through **clean, maintainable code**. My interests span **full-stack web development**, **AI-driven automation**, and **cloud-based architectures**, and I am currently deepening my expertise in **FastAPI**, **PostgreSQL**, and **system design principles** to build reliable, high-performance backend infrastructures that scale seamlessly with modern applications.
+
 
 
 ---
