@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KrishnaKaranwal21/KrishnaKaranwal21/main/Animation.gif" width="600" alt="Profile Animation" />
+  <img src="https://github.com/KrishnaKaranwal21/KrishnaKaranwal21/blob/main/Animation.gif" alt="Profile Animation" />
 </p>
 
 ---
