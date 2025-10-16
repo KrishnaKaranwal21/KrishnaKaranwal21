@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/KrishnaKaranwal">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2CB&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+👨‍💻;I+love+building+awesome+things!;Let's+create+something+great+together!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2CB&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+👨‍💻;I+love+building+awesome+things!; Let's+create+something+great+together!" alt="Typing SVG" />
   </a>
 </p>
 
