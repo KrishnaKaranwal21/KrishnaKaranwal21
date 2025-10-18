@@ -68,6 +68,21 @@ Here's a snapshot of my GitHub activity and contributions over time.
 
 ---
 
+<!-- README.md snippet: Holopin badges (centered and clickable) -->
+<p align="center">
+  <a href="https://holopin.io/@krishnakaranwal21" target="_blank" rel="noopener">
+    <img alt="An image of @krishnakaranwal21's Holopin badges, which is a link to view their full Holopin profile"
+         src="https://holopin.me/krishnakaranwal21" />
+  </a>
+</p>
+
+<!-- Optional: small caption under the badges -->
+<p align="center">
+  <sub>See my full Holopin profile → <a href="https://holopin.io/@krishnakaranwal21">holopin.io/@krishnakaranwal21</a></sub>
+</p>
+
+---
+
 ## Let's Connect
 
 <p align="center">
